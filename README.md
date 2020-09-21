@@ -17,12 +17,6 @@ The purpose of this analysis is to inform W. Avy as to whether Oahu is an ideal 
   
 ### Summary
 
-**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
-
-Referencing the images cited above in the results section, a total of 29414 Senior Engineers, 28254 Senior Staff, 14222 Engineers, 12243 Staff, 4502 Technique Leader, 1761 Assistant Engineer, and 2 Managers will be retiring and these roles will need to be filled by a wave of next generation new hires. 
-
-**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
-
 Two additional queries we can perform to gather more weather data for June and December would be the following:
 
 1. Look at the precipitation amount for June by refactoring our code from the challenge to look like this 
